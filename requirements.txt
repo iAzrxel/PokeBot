@@ -1,0 +1,6 @@
+poke_env
+python-dotenv
+requests
+websockets
+numpy
+tabulate
