@@ -32,11 +32,10 @@ Strategic Pokémon Showdown bot built with Python featuring battle evaluation, s
 ```txt
 src/
   battle/
+  bot/
+  data/
   logs/
-  memory/
-  player/
   strategy/
-  utils/
 ```
 
 ---
